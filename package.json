@@ -1,0 +1,26 @@
+{
+  "name": "hrms-qa-assignment",
+  "version": "1.0.0",
+  "description": "Meghamala N",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meghamala06/HRMS-QA-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Meghamala06/HRMS-QA-Assignment/issues"
+  },
+  "homepage": "https://github.com/Meghamala06/HRMS-QA-Assignment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1"
+  }
+}
